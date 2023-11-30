@@ -1,0 +1,41 @@
+*{
+    border-style: solid;
+
+}
+
+.nav{
+
+}
+
+
+.left{
+    list-style-type: none;
+    display: grid;
+    justify-content: left;
+}
+
+.right{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: right;
+}
+
+main{
+    text-align: center;
+}
+
+.pricingbox{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.name{
+    display: grid;
+    grid-template-columns: auto auto;
+}
