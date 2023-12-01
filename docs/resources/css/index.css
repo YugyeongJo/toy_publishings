@@ -13,3 +13,12 @@ footer{
 li{
     list-style: none;
 }
+
+.top{
+    margin-top: 20px;
+}
+
+ul{
+    justify-content: center;
+    padding: 0px;
+}
