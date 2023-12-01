@@ -1,0 +1,15 @@
+*{
+    /* border: solid; */
+}
+.text_align_center {
+text-align: center;
+}
+
+footer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+li{
+    list-style: none;
+}
